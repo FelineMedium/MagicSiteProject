@@ -1,0 +1,7 @@
+ Arbores
+ Ignis
+ Lapis
+ Lux
+ Fulgur
+ Frigus
+ Motus
